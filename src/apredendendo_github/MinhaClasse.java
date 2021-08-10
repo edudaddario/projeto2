@@ -6,6 +6,7 @@ public class MinhaClasse {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Minha primeira classe Java versão 1.00");
+		// TESTE TESTE
 
 	}
 
